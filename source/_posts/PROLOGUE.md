@@ -5,7 +5,7 @@ tags:
 - Book
 - English
 categories:
-- 《冰与火之歌》第一部：权利的游戏
+- A Game of Thrones
 ---
 
 序章第一段`Gared urged as the woods began to grow dark around them.`便描绘了一幅天寒地冻，篝火将要燃尽的画面。

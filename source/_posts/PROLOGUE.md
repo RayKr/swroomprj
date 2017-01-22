@@ -7,6 +7,7 @@ tags:
 categories:
 - A Game of Thrones
 ---
+{% fullimage http://ok5tc5k7a.bkt.clouddn.com/prologue.png, PROLOGUE, Sworn Brothers of the Night's Watch %}
 
 序章第一段`Gared urged as the woods began to grow dark around them.`便描绘了一幅天寒地冻，篝火将要燃尽的画面。
 `"Do the dead frighten you?" Ser Waymar Royce asked with just the hint of a smile.`with后边的这个状语很有意思，a hint of少量，少许的smile，是一种轻视、轻蔑的笑，再读到后一句Gared是个`an old man`，就知道这个Ser是一个初生牛犊不怕虎的年轻爵士，无知无畏加上职位高，所以才会有这样一个略带嘲笑的表情。人物塑造就在这些许词间。
